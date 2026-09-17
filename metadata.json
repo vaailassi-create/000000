@@ -1,0 +1,6 @@
+{
+  "name": "X",
+  "description": "Futuristic anime-AI companion and voice assistant created by Wasil with holographic HUD, Gemini integration, and device control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

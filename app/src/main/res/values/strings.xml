@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">X</string>
+    <string name="assistant_title">X</string>
+    <string name="creator_attribution">Created by Wasil</string>
+    <string name="status_idle">Standby</string>
+    <string name="status_listening">LISTENING</string>
+    <string name="status_thinking">THINKING</string>
+    <string name="status_speaking">SPEAKING</string>
+    <string name="hint_say_x">"Say X to begin"</string>
+    <string name="onboarding_title">Let\'s get X ready.</string>
+</resources>
